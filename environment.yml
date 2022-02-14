@@ -181,12 +181,15 @@ dependencies:
   - pip:
     - asciitree==0.3.3
     - belextractors==0.1.1
+    - charset-normalizer==2.0.12
     - elephant==0.10.0
     - fasteners==0.17.2
     - hdmf==3.1.1
+    - idna==3.3
     - jsonschema==3.2.0
     - lazy-ops==0.2.0
     - lxml==4.7.1
+    - meautility==1.5.0
     - natsort==8.0.2
     - neo==0.10.0
     - numcodecs==0.9.1
@@ -197,12 +200,20 @@ dependencies:
     - pynwb==2.0.0
     - pyyaml==6.0
     - quantities==0.13.0
+    - requests==2.27.1
     - roiextractors==0.3.1
     - ruamel-yaml==0.17.20
     - ruamel-yaml-clib==0.2.6
     - seaborn==0.11.2
+    - spikecomparison==0.3.3
     - spikeextractors==0.9.9
-    - spikeinterface==0.92.1.dev0
+    - spikefeatures==0.1.2
+    - spikeinterface==0.13.0
+    - spikemetrics==0.2.4
+    - spikesorters==0.4.5
+    - spiketoolkit==0.7.7
+    - spikewidgets==0.5.4
     - tifffile==2022.2.2
+    - urllib3==1.26.8
     - zarr==2.10.3
 prefix: /Users/xuexi/anaconda3/envs/measpine_mapping
