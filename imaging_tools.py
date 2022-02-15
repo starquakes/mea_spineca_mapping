@@ -115,7 +115,7 @@ def extract_roi_activity(imaging, roi, return_mean=True):
 
 
 # extends df_f by 'winperc' method; previous kept for compatibility
-def dff(trace, method='winperc', window, percentile):
+def dff(trace, method='winperc', window=100, percentile=25):
     df = np.zeros_like(trace)
     
     if method == 'quantile':
