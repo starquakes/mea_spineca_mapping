@@ -6,11 +6,11 @@ Users can:
 2. Adapt and implement the pipeline for their own datasets
 
 # Citation
-@article{xue2022measpinecamapping,
-  title={Inferring monosynaptic connections from paired dendritic spine Ca2+ imaging and large-scale recording of extracellular spiking},
+`@article{xue2022measpinecamapping,
+  title={Inferring monosynaptic connections from paired dendritic spine Ca$^{2+}$ imaging and large-scale recording of extracellular spiking},
   author={Xue, Xiaohan and Buccino, Alessio Paolo and Saseendran Kumar, Sreedhar and Hierlemann,  Andreas and Bartram, Julian},
   journal={bioRxiv},
   year={2022},
   publisher={Cold Spring Harbor Laboratory}
-}
+}`
 
