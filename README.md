@@ -10,9 +10,9 @@ Users can:
 @article{xue2022measpinecamapping,
   title={Inferring monosynaptic connections from paired dendritic spine Ca$^{2+}$ imaging and large-scale recording of extracellular spiking},
   author={Xue, Xiaohan and Buccino, Alessio Paolo and Saseendran Kumar, Sreedhar and Hierlemann,  Andreas and Bartram, Julian},
-  journal={bioRxiv},
+  journal={Journal of neural engineering},
   year={2022},
-  publisher={Cold Spring Harbor Laboratory}
+  publisher={IOP Publishing}
 }
 ```
 
